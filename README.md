@@ -172,19 +172,6 @@ tqdm==4.65.0
 ```
 
 
----
-
-## 📚 Citation
-
-```bibtex
-@article{skandh2026pi_lstm,
-  title   = {Digital Rheology of Polymers Using Physics-Informed LSTM Approach},
-  author  = {Skandh, Deepak and Nithin and Varathan, Akhillesh and Kavin and Ashok, Neelesh},
-  journal = {Journal Not Specified (MDPI)},
-  year    = {2026},
-  note    = {Manuscript in preparation}
-}
-```
 
 ---
 
