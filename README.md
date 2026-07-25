@@ -171,17 +171,6 @@ scikit-learn==1.3.0
 tqdm==4.65.0
 ```
 
----
-
-## 👥 Authors
-
-| Name | Affiliation |
-|------|------------|
-| Deepak Skandh | Amrita Vishwa Vidyapeetham |
-| **Nithin S** | **Amrita Vishwa Vidyapeetham** |
-| Akhillesh Varathan | Amrita Vishwa Vidyapeetham |
-| Kavin | Amrita Vishwa Vidyapeetham |
-| Neelesh Ashok (Supervisor) | neelesh@cb.amrita.edu |
 
 ---
 
